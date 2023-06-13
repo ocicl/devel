@@ -1,0 +1,10 @@
+* devel
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/misc-extensions/devel.git   |
+| commit  |   |
+| systems | devel |
+|---------+-------------------------------------------|
+
