@@ -1,10 +1,7 @@
 * devel
 
-
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/misc-extensions/devel.git   |
-| commit  |   |
-| systems | devel |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/misc-extensions/devel.git |
+| commit  | 101c0511                                                     |
+| systems | misc-extensions                                              |
+|---------+--------------------------------------------------------------|
